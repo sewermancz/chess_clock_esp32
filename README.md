@@ -20,6 +20,9 @@ To assemble it, you need
 - li-ion battery - 16850
 
 
+Files for 3D printing
+https://www.printables.com/model/676287-chess-clock-sachove-hodiny
+
 
 CZ
 
@@ -39,3 +42,4 @@ K sestavení je potřeba
 - TP4056 charging module
 - SPDT slide switch
 - li-ion battery - 16850
+D printing
