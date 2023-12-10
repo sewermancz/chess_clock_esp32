@@ -9,7 +9,7 @@ Game flow
 The clock is set to five minutes. After switching it on, the buttons can change the game time. The starting player presses the button pulls and presses the button again. Subsequently, the players take turns in the game. When one player has zero minutes on the clock, the timer stops and the winning player wins.
 Pressing both buttons makes it possible to return to the beginning.
 
-Connecting
+Assembling
 The code for the ESP 32 S2 mini is posted on Git Hub. The wiring of the individual components is according to the attached diagram.
 To assemble it, you need
 - ESP 32 S2 mini (or other microcontroller)
@@ -23,6 +23,8 @@ To assemble it, you need
 Files for 3D printing
 https://www.printables.com/model/676287-chess-clock-sachove-hodiny
 
+Assembling video
+https://youtu.be/wzUdPO0krwk
 
 CZ
 
